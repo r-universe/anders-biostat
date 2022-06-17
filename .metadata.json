@@ -1,0 +1,10 @@
+[
+  {
+    "package": "jrc",
+    "oncran": true
+  },
+  {
+    "package": "sleepwalk",
+    "oncran": true
+  }
+]
